@@ -1,2 +1,6 @@
 # Welcome!
-This homepage is a work in progress. Ignore the hammer noises ;)
+This is the homepage for our Wii/GC decomp projects
+
+## Metroid Prime
+Decompilation: <p style="color: #FFA500">In Progress</p>
+PC Port: <p style="color: #FFA500">In Progress</p>
